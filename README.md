@@ -7,8 +7,8 @@ Xetex report hua template
 
 Για χρήση των templates προτείνεται η εγκατάσταση tex-live-full και του editor kile
 ως αρχική προσέγγιση.
+Εντολή για εγκατάσταση στα linux:
 
-sudo apt-get install tex-live-full
-sudo apt-get install kile
+sudo apt-get install texlive-full kile
 
 
